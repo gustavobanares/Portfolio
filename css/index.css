@@ -52,4 +52,9 @@ span{
     box-shadow: 5px 5px 0px #2d3436;
     padding: 18px 20px;
     margin-right: 0;
+    transition: transform 100ms linear ;
+}
+
+#button:hover{
+    transform: scale(1.08);
 }
