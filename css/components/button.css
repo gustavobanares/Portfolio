@@ -1,7 +1,7 @@
 .button{
     display: inline-block;
     background-color: #74B9FF;
-    box-shadow: 5px 5px 0px #2d3436;
+    box-shadow: 5px 5px 0px #000;
     padding: 18px 20px;
     margin-right: 0;
     transition: transform 100ms linear ;
