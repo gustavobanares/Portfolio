@@ -2,7 +2,7 @@
     box-sizing: border-box;
     background-color: #FFF;
     border: 5px solid #000;
-    height: 40px;
+    height: 30px;
 }
 
 .progress-bar::-webkit-progress-value {
