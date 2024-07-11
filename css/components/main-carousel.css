@@ -1,6 +1,6 @@
 .main-carousel{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     position: relative;
     padding-left: 85px;
     padding-right: 85px;
@@ -50,6 +50,6 @@
 .main-carousel .elements{
     display: flex;
     justify-content: space-between;
-    transform: translateX(400px);
+    transition: transform 100ms ease-in-out;
 }
 
